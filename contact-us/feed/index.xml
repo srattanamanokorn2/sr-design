@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments on: Contact Us</title>
+	<title>Comments on: Contact me</title>
 	<atom:link href="http://srattanamanokorn2.github.io/contact-us/feed/" rel="self" type="application/rss+xml" />
 	<link>http://srattanamanokorn2.github.io</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Sun, 15 Apr 2018 16:25:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Apr 2018 13:24:27 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
