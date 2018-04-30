@@ -10,42 +10,9 @@
 	<atom:link href="http://srattanamanokorn2.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://srattanamanokorn2.github.io</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Sun, 15 Apr 2018 16:25:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Apr 2018 07:31:20 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
-	<item>
-		<title>Comment on Hello world! by A WordPress Commenter</title>
-		<link>http://srattanamanokorn2.github.io/2018/04/15/hello-world/#comment-1</link>
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Sun, 15 Apr 2018 16:25:49 +0000</pubDate>
-		<guid isPermaLink="false">http://srattanamanokorn2.github.io/?p=1#comment-1</guid>
-		<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>Comment on illum molestias, ut eligendi molestiae by developer</title>
-		<link>http://srattanamanokorn2.github.io/2015/08/04/illum-molestias-ut-eligendi-molestiae/#comment-8</link>
-		<dc:creator><![CDATA[developer]]></dc:creator>
-		<pubDate>Thu, 06 Aug 2015 07:29:55 +0000</pubDate>
-		<guid isPermaLink="false">http://demo.themeton.com/acerola/?p=157#comment-8</guid>
-		<description><![CDATA[Nice Theme!]]></description>
-		<content:encoded><![CDATA[<p>Nice Theme!</p>
-]]></content:encoded>
-	</item>
-	<item>
-		<title>Comment on Reprehenderit, quia necessitatibus minus by Anonymous</title>
-		<link>http://srattanamanokorn2.github.io/2015/08/04/hello-world-2/#comment-7</link>
-		<dc:creator><![CDATA[Anonymous]]></dc:creator>
-		<pubDate>Tue, 04 Aug 2015 05:48:57 +0000</pubDate>
-		<guid isPermaLink="false">http://demo.themeton.com/acerola/?p=1#comment-7</guid>
-		<description><![CDATA[]]></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-	</item>
 </channel>
 </rss>
