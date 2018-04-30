@@ -12,10 +12,18 @@
 	<atom:link href="http://srattanamanokorn2.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>http://srattanamanokorn2.github.io</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Mon, 30 Apr 2018 06:40:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Apr 2018 13:16:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
+
+<image>
+	<url>http://srattanamanokorn2.github.io/wp-content/uploads/2018/04/cropped-sr_favicon-32x32.png</url>
+	<title>srdesign</title>
+	<link>http://srattanamanokorn2.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
